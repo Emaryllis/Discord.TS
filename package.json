@@ -1,0 +1,31 @@
+{
+  "name": "discord.ts",
+  "version": "1.0.0",
+  "description": "A Discord.JS Bot",
+  "scripts": {
+    "start": "nodemon --exec node --loader ts-node/esm/transpile-only --no-warnings src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raven-Code/Discord.TS.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord"
+  ],
+  "author": "Raven-Code",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Raven-Code/Discord.TS/issues"
+  },
+  "homepage": "https://github.com/Raven-Code/Discord.TS#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
