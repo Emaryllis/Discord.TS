@@ -7,18 +7,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Raven-Code/Discord.TS.git"
+    "url": "git+https://github.com/Emaryllis/Discord.TS.git"
   },
   "keywords": [
     "discord.js",
     "discord"
   ],
-  "author": "Raven-Code",
+  "author": "Emaryllis",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Raven-Code/Discord.TS/issues"
+    "url": "https://github.com/Emaryllis/Discord.TS/issues"
   },
-  "homepage": "https://github.com/Raven-Code/Discord.TS#readme",
+  "homepage": "https://github.com/Emaryllis/Discord.TS#readme",
   "dependencies": {
     "discord.js": "^14.13.0",
     "dotenv": "^16.3.1"
